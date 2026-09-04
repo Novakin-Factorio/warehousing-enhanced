@@ -1,0 +1,9 @@
+{
+	"name": "warehousing-enhanced",
+	"version": "1.2.0",
+	"factorio_version": "2.1",
+	"title": "Warehousing Enhanced",
+	"author": "Nova.Kin",
+	"description": "Independent Factorio 2.1 replacement fork of Warehousing, with high-capacity storage, logistic variants, native circuit controls, and no recurring update script.",
+	"dependencies": ["base >= 2.1.7", "! Warehousing"]
+}
